@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bonjour, je suis Antoine ! 👋
 
-<!--
-**Itohax78/Itohax78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant-ingénieur en Cybersécurité à l'EFREI Paris**
+🎯 **Actuellement ouvert aux opportunités de stage en ingénierie cybersécurité pour fin 2026*
 
-Here are some ideas to get you started:
+Passionné par la sécurité des infrastructures, le durcissement des systèmes et l'intégration de l'IA pour la détection des menaces. Ce profil regroupe mes projets académiques et personnels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ma Stack Technique
+* **Réseaux & Sécurité :** pfSense, Suricata, OpenVPN, IPSec, Wireshark, Nmap
+* **Systèmes & Cloud :** GNU/Linux, Windows Server, Active Directory, Docker, AWS
+* **Développement & IA :** Python, PHP, FastAPI, SQL, Ollama, LLaVA
+
+### 📫 Me contacter
+* **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/antoine-poirier-cyber/)
+* **Email :** antoine.poirier@efrei.net
