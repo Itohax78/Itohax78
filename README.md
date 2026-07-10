@@ -1,6 +1,6 @@
 # Bonjour, je suis Antoine ! 👋
 
-🎓 **Étudiant-ingénieur en Cybersécurité à l'EFREI Paris**
+🎓 **Étudiant-ingénieur en Cybersécurité à l'EFREI Paris** <br>
 🎯 **Actuellement ouvert aux opportunités de stage en ingénierie cybersécurité pour fin 2026**
 
 Passionné par la sécurité des infrastructures, le durcissement des systèmes et l'intégration de l'IA pour la détection des menaces. Ce profil regroupe mes projets académiques et personnels.
