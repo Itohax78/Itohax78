@@ -1,15 +1,22 @@
 # Bonjour, je suis Antoine ! 👋
 
-🎓 **Étudiant-ingénieur en Cybersécurité à l'EFREI Paris** <br>
-🎯 **Actuellement ouvert aux opportunités de stage en ingénierie cybersécurité pour fin 2026**
+🎓 Élève ingénieur en cybersécurité à l'EFREI Paris (majeure Cybersécurité, Infrastructure et Logiciel)
+🛡️ Actuellement en stage au département Infrastructure & Cybersécurité d'ACTED
 
-Passionné par la sécurité des infrastructures, le durcissement des systèmes et l'intégration de l'IA pour la détection des menaces. Ce profil regroupe mes projets académiques et personnels.
+Ce qui m'intéresse : la défense (détection, SOC, SIEM), la sécurité des infrastructures et la conformité (DORA, NIS2). Ce profil regroupe mes projets académiques et personnels.
 
-### 🛠️ Ma Stack Technique
-* **Réseaux & Sécurité :** pfSense, Suricata, OpenVPN, IPSec, Wireshark, Nmap
-* **Systèmes & Cloud :** GNU/Linux, Windows Server, Active Directory, Docker, AWS
-* **Développement & IA :** Python, PHP, FastAPI, SQL, Ollama, LLaVA
+## 🧰 Compétences
+- **Détection & SOC** : Wazuh, SIEM, MITRE ATT&CK, règles de corrélation
+- **Réseaux & Sécurité** : OPNsense, pfSense, Suricata, VPN (IPsec, OpenVPN), Nmap
+- **Systèmes & Cloud** : Linux, Windows Server, Active Directory / Entra ID, Microsoft 365, Docker
+- **Développement** : Python, PowerShell, FastAPI, SQL
 
-### 📫 Me contacter
-* **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/antoine-poirier-cyber/)
-* **Email :** antoine.poirier@efrei.net
+## 📌 À voir
+- Opération MIRAGE — test d'intrusion & détection SOC
+- MediConnect — architecture réseau sécurisée (ANSSI)
+- Patch Management Windows (PowerShell, JEA, CI)
+- SOC Wazuh — détection d'attaques sur application vulnérable
+
+## 📫 Me contacter
+- LinkedIn : [Mon profil](https://www.linkedin.com/in/antoine-poirier-cyber)
+- Courriel : antoinepr78@gmail.com
